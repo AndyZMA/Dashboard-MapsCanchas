@@ -1,0 +1,452 @@
+[
+  {
+    "region": "Centro",
+    "estado": "Ciudad de México",
+    "municipio": "Miguel Hidalgo",
+    "num_registros": 9,
+    "num_entidades": 8,
+    "num_ubicaciones": 7,
+    "num_categorias": 2
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Chihuahua",
+    "municipio": "Municipio de Chihuahua",
+    "num_registros": 6,
+    "num_entidades": 6,
+    "num_ubicaciones": 6,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Durango",
+    "municipio": "Municipio de Durango",
+    "num_registros": 6,
+    "num_entidades": 6,
+    "num_ubicaciones": 6,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Ciudad de México",
+    "municipio": "Venustiano Carranza",
+    "num_registros": 5,
+    "num_entidades": 5,
+    "num_ubicaciones": 4,
+    "num_categorias": 3
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Jalisco",
+    "municipio": "Zapopan",
+    "num_registros": 5,
+    "num_entidades": 5,
+    "num_ubicaciones": 5,
+    "num_categorias": 2
+  },
+  {
+    "region": "Noreste",
+    "estado": "Nuevo León",
+    "municipio": "Monterrey",
+    "num_registros": 4,
+    "num_entidades": 4,
+    "num_ubicaciones": 4,
+    "num_categorias": 2
+  },
+  {
+    "region": "Noreste",
+    "estado": "Nuevo León",
+    "municipio": "Guadalupe",
+    "num_registros": 3,
+    "num_entidades": 3,
+    "num_ubicaciones": 3,
+    "num_categorias": 2
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Michoacán",
+    "municipio": "Morelia",
+    "num_registros": 3,
+    "num_entidades": 3,
+    "num_ubicaciones": 2,
+    "num_categorias": 2
+  },
+  {
+    "region": "Centro",
+    "estado": "Ciudad de México",
+    "municipio": "Coyoacán",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Ciudad de México",
+    "municipio": "Iztapalapa",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2,
+    "num_categorias": 2
+  },
+  {
+    "region": "Centro",
+    "estado": "Ciudad de México",
+    "municipio": "Xochimilco",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Aguascalientes",
+    "municipio": "Municipio de Aguascalientes",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 1,
+    "num_categorias": 2
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Nayarit",
+    "municipio": "Tepic",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "San Luis Potosí",
+    "municipio": "Municipio de San Luis Potosí",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2,
+    "num_categorias": 2
+  },
+  {
+    "region": "Centro",
+    "estado": "Ciudad de México",
+    "municipio": "Benito Juárez",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Ciudad de México",
+    "municipio": "Cuauhtémoc",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Ciudad de México",
+    "municipio": "Iztacalco",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Ciudad de México",
+    "municipio": "Tlalpan",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Ciudad de México",
+    "municipio": "Álvaro Obregón",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Estado de México",
+    "municipio": "Atenco",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Estado de México",
+    "municipio": "Metepec",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Estado de México",
+    "municipio": "Tlalnepantla de Baz",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Estado de México",
+    "municipio": "Toluca",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Estado de México",
+    "municipio": "Tultepec",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Estado de México",
+    "municipio": null,
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Hidalgo",
+    "municipio": "San Agustín Tlaxiaca",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Hidalgo",
+    "municipio": "Tizayuca",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Morelos",
+    "municipio": "Huitzilac",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Morelos",
+    "municipio": "Zacatepec",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Puebla",
+    "municipio": "San Pedro Cholula",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Tlaxcala",
+    "municipio": "Chiautempan",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noreste",
+    "estado": "Coahuila",
+    "municipio": "Torreón",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noreste",
+    "estado": "Nuevo León",
+    "municipio": "General Escobedo",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noreste",
+    "estado": "Nuevo León",
+    "municipio": "San Nicolás de los Garza",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Baja California",
+    "municipio": "Municipio de Mexicali",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Baja California",
+    "municipio": "Municipio de Tijuana",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Baja California Sur",
+    "municipio": "Municipio de La Paz",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Chihuahua",
+    "municipio": "Delicias",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Sinaloa",
+    "municipio": "Mazatlán",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Sonora",
+    "municipio": "Hermosillo",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Guanajuato",
+    "municipio": "León",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Jalisco",
+    "municipio": "Guadalajara",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Jalisco",
+    "municipio": "Lagos de Moreno",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Jalisco",
+    "municipio": null,
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Nayarit",
+    "municipio": null,
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Querétaro",
+    "municipio": "Municipio de Querétaro",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Zacatecas",
+    "municipio": "Municipio de Zacatecas",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Sur-Sureste",
+    "estado": "Chiapas",
+    "municipio": "Tuxtla Gutiérrez",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Sur-Sureste",
+    "estado": "Quintana Roo",
+    "municipio": "Bacalar",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Sur-Sureste",
+    "estado": "Yucatán",
+    "municipio": "Mérida",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_categorias": 1
+  }
+]

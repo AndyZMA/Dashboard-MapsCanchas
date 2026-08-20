@@ -1,0 +1,227 @@
+[
+  {
+    "region": "Centro",
+    "estado": "Ciudad de México",
+    "num_registros": 25,
+    "num_entidades": 24,
+    "num_ubicaciones": 22,
+    "num_municipios": 10,
+    "num_categorias": 4
+  },
+  {
+    "region": "Noreste",
+    "estado": "Nuevo León",
+    "num_registros": 9,
+    "num_entidades": 9,
+    "num_ubicaciones": 9,
+    "num_municipios": 4,
+    "num_categorias": 2
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Jalisco",
+    "num_registros": 8,
+    "num_entidades": 8,
+    "num_ubicaciones": 8,
+    "num_municipios": 3,
+    "num_categorias": 3
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Chihuahua",
+    "num_registros": 7,
+    "num_entidades": 7,
+    "num_ubicaciones": 7,
+    "num_municipios": 2,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Estado de México",
+    "num_registros": 6,
+    "num_entidades": 6,
+    "num_ubicaciones": 6,
+    "num_municipios": 5,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Durango",
+    "num_registros": 6,
+    "num_entidades": 6,
+    "num_ubicaciones": 6,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Michoacán",
+    "num_registros": 3,
+    "num_entidades": 3,
+    "num_ubicaciones": 2,
+    "num_municipios": 1,
+    "num_categorias": 2
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Nayarit",
+    "num_registros": 3,
+    "num_entidades": 3,
+    "num_ubicaciones": 3,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Hidalgo",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2,
+    "num_municipios": 2,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Morelos",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2,
+    "num_municipios": 2,
+    "num_categorias": 2
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Baja California",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2,
+    "num_municipios": 2,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Aguascalientes",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 2
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "San Luis Potosí",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2,
+    "num_municipios": 1,
+    "num_categorias": 2
+  },
+  {
+    "region": "Centro",
+    "estado": "Puebla",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Centro",
+    "estado": "Tlaxcala",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noreste",
+    "estado": "Coahuila",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Baja California Sur",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Sinaloa",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Noroeste",
+    "estado": "Sonora",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Guanajuato",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Querétaro",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Occidente-Bajío",
+    "estado": "Zacatecas",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Sur-Sureste",
+    "estado": "Chiapas",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Sur-Sureste",
+    "estado": "Quintana Roo",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  },
+  {
+    "region": "Sur-Sureste",
+    "estado": "Yucatán",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1,
+    "num_municipios": 1,
+    "num_categorias": 1
+  }
+]

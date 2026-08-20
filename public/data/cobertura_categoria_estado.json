@@ -1,0 +1,247 @@
+[
+  {
+    "categoria": "Asociaciones Civiles y Fundaciones",
+    "estado": "Ciudad de México",
+    "num_registros": 3,
+    "num_entidades": 3,
+    "num_ubicaciones": 3
+  },
+  {
+    "categoria": "Asociaciones Civiles y Fundaciones",
+    "estado": "Jalisco",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Asociaciones Civiles y Fundaciones",
+    "estado": "Quintana Roo",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Ciudad de México",
+    "num_registros": 18,
+    "num_entidades": 17,
+    "num_ubicaciones": 17
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Chihuahua",
+    "num_registros": 7,
+    "num_entidades": 7,
+    "num_ubicaciones": 7
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Nuevo León",
+    "num_registros": 7,
+    "num_entidades": 7,
+    "num_ubicaciones": 7
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Durango",
+    "num_registros": 6,
+    "num_entidades": 6,
+    "num_ubicaciones": 6
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Estado de México",
+    "num_registros": 6,
+    "num_entidades": 6,
+    "num_ubicaciones": 6
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Jalisco",
+    "num_registros": 6,
+    "num_entidades": 6,
+    "num_ubicaciones": 6
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Nayarit",
+    "num_registros": 3,
+    "num_entidades": 3,
+    "num_ubicaciones": 3
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Baja California",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Hidalgo",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Michoacán",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Aguascalientes",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Guanajuato",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Morelos",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "San Luis Potosí",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Sinaloa",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Clubes y Equipos",
+    "estado": "Zacatecas",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Escuelas y Academias",
+    "estado": "Ciudad de México",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2
+  },
+  {
+    "categoria": "Escuelas y Academias",
+    "estado": "Nuevo León",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2
+  },
+  {
+    "categoria": "Escuelas y Academias",
+    "estado": "Aguascalientes",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Escuelas y Academias",
+    "estado": "Chiapas",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Escuelas y Academias",
+    "estado": "Coahuila",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Escuelas y Academias",
+    "estado": "Jalisco",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Escuelas y Academias",
+    "estado": "Michoacán",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Escuelas y Academias",
+    "estado": "Morelos",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Escuelas y Academias",
+    "estado": "Yucatán",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Ligas de Fútbol",
+    "estado": "Ciudad de México",
+    "num_registros": 2,
+    "num_entidades": 2,
+    "num_ubicaciones": 2
+  },
+  {
+    "categoria": "Ligas de Fútbol",
+    "estado": "Baja California Sur",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Ligas de Fútbol",
+    "estado": "Puebla",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Ligas de Fútbol",
+    "estado": "Querétaro",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Ligas de Fútbol",
+    "estado": "San Luis Potosí",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Ligas de Fútbol",
+    "estado": "Sonora",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  },
+  {
+    "categoria": "Ligas de Fútbol",
+    "estado": "Tlaxcala",
+    "num_registros": 1,
+    "num_entidades": 1,
+    "num_ubicaciones": 1
+  }
+]

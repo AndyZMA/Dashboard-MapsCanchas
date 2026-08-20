@@ -1,0 +1,34 @@
+[
+  {
+    "categoria": "Clubes y Equipos",
+    "num_estados": 16,
+    "total_registros": 65,
+    "total_entidades": 64,
+    "total_ubicaciones": 63,
+    "estados_presentes": "Aguascalientes, Baja California, Chihuahua, Ciudad de México, Durango, Estado de México, Guanajuato, Hidalgo, Jalisco, Michoacán, Morelos, Nayarit, Nuevo León, San Luis Potosí, Sinaloa, Zacatecas"
+  },
+  {
+    "categoria": "Escuelas y Academias",
+    "num_estados": 9,
+    "total_registros": 11,
+    "total_entidades": 11,
+    "total_ubicaciones": 11,
+    "estados_presentes": "Aguascalientes, Chiapas, Ciudad de México, Coahuila, Jalisco, Michoacán, Morelos, Nuevo León, Yucatán"
+  },
+  {
+    "categoria": "Ligas de Fútbol",
+    "num_estados": 7,
+    "total_registros": 8,
+    "total_entidades": 8,
+    "total_ubicaciones": 8,
+    "estados_presentes": "Baja California Sur, Ciudad de México, Puebla, Querétaro, San Luis Potosí, Sonora, Tlaxcala"
+  },
+  {
+    "categoria": "Asociaciones Civiles y Fundaciones",
+    "num_estados": 3,
+    "total_registros": 5,
+    "total_entidades": 5,
+    "total_ubicaciones": 5,
+    "estados_presentes": "Ciudad de México, Jalisco, Quintana Roo"
+  }
+]

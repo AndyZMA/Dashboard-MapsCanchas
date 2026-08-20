@@ -1,0 +1,47 @@
+[
+  {
+    "region": "Centro",
+    "num_registros": 37,
+    "num_entidades": 36,
+    "num_ubicaciones": 34,
+    "num_estados": 6,
+    "num_municipios": 21,
+    "num_categorias": 4
+  },
+  {
+    "region": "Occidente-Bajío",
+    "num_registros": 21,
+    "num_entidades": 21,
+    "num_ubicaciones": 19,
+    "num_estados": 8,
+    "num_municipios": 10,
+    "num_categorias": 4
+  },
+  {
+    "region": "Noroeste",
+    "num_registros": 18,
+    "num_entidades": 18,
+    "num_ubicaciones": 18,
+    "num_estados": 6,
+    "num_municipios": 8,
+    "num_categorias": 2
+  },
+  {
+    "region": "Noreste",
+    "num_registros": 10,
+    "num_entidades": 10,
+    "num_ubicaciones": 10,
+    "num_estados": 2,
+    "num_municipios": 5,
+    "num_categorias": 2
+  },
+  {
+    "region": "Sur-Sureste",
+    "num_registros": 3,
+    "num_entidades": 3,
+    "num_ubicaciones": 3,
+    "num_estados": 3,
+    "num_municipios": 3,
+    "num_categorias": 2
+  }
+]
