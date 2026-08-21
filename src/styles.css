@@ -882,3 +882,158 @@ h1 {
 		grid-template-columns: 1fr 1fr;
 	}
 }
+
+
+/* =========================================================
+   MAP CONTEXT / CATEGORY LEGEND
+   ========================================================= */
+
+.map-context-card {
+  height: clamp(500px, 68vh, 700px);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  box-shadow: var(--shadow);
+}
+
+.map-context-content {
+  flex: 1;
+  padding: 4px 20px 20px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* Category legend */
+
+.legend-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.legend-item {
+  display: grid;
+  grid-template-columns: 10px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 12px;
+
+  padding: 13px 10px;
+
+  border-radius: 14px;
+
+  transition:
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+.legend-item:hover {
+  background: rgba(111, 61, 180, 0.05);
+  transform: translateX(2px);
+}
+
+.legend-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+
+  box-shadow:
+    0 0 0 3px rgba(255, 255, 255, 0.95),
+    0 2px 6px rgba(52, 30, 67, 0.12);
+}
+
+.legend-label {
+  min-width: 0;
+
+  font-size: 12px;
+  line-height: 1.35;
+  font-weight: 500;
+
+  color: #54495f;
+}
+
+.legend-count {
+  min-width: 24px;
+
+  font-size: 14px;
+  font-weight: 700;
+
+  color: #281b32;
+  text-align: right;
+}
+
+/* Summary */
+
+.context-summary {
+  margin-top: auto;
+
+  padding: 20px;
+
+  border-radius: 20px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(111, 61, 180, 0.09),
+      rgba(233, 93, 151, 0.06)
+    );
+
+  border: 1px solid rgba(111, 61, 180, 0.08);
+}
+
+.context-summary-label {
+  display: block;
+
+  margin-bottom: 8px;
+
+  font-size: 9px;
+  font-weight: 800;
+
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+
+  color: #887a93;
+}
+
+.context-summary strong {
+  display: block;
+
+  font-size: 36px;
+  line-height: 1;
+
+  letter-spacing: -0.05em;
+
+  color: #251530;
+}
+
+.context-summary small {
+  display: block;
+
+  margin-top: 7px;
+
+  font-size: 10px;
+
+  color: #93879c;
+}
+
+/* Responsive */
+
+@media (max-width: 900px) {
+  .map-context-card {
+    height: auto;
+    min-height: 280px;
+  }
+
+  .map-context-content {
+    padding-bottom: 18px;
+  }
+
+  .context-summary {
+    margin-top: 12px;
+  }
+}
