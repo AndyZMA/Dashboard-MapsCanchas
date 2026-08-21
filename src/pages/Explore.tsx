@@ -5,33 +5,107 @@ import OpportunityMap from '../components/OpportunityMap'
 import EntityDrawer from '../components/EntityDrawer'
 import EmptyState from '../components/EmptyState'
 import { useDashboardData } from '../hooks/useDashboardData'
-import { categoryColor, categoryShort } from '../lib/data'
-import { useDashboardStore } from '../store/dashboardStore'
+import { categoryColor } from '../lib/data'
 
 export default function Explore() {
   const { records, filtered, metrics, loading, error } = useDashboardData()
-  const selectEntity = useDashboardStore((s) => s.selectEntity)
-  if (loading) return <div className="loading">Cargando ecosistema…</div>
-  if (error) return <div className="loading">{error}</div>
 
-  const entities = [...new Map(filtered.map((r) => [r.entidad_id, r])).values()]
+  if (loading) {
+    return <div className="loading">Cargando ecosistema…</div>
+  }
 
-  return <>
-    <PageHeader eyebrow="Ecosistema nacional" title="Dónde están las oportunidades" description="Explora organizaciones, sedes y fichas del fútbol femenil en México sin confundir volumen con cobertura real." />
-    <FiltersBar records={records}/>
-    <KpiGrid metrics={metrics}/>
-    {filtered.length ? <div className="explore-grid">
-      <OpportunityMap records={filtered}/>
-      <section className="entity-list-card">
-        <div className="card-heading"><div><h3>Entidades visibles</h3><p>{entities.length} organizaciones bajo los filtros actuales</p></div></div>
-        <div className="entity-list">
-          {entities.slice(0, 40).map((r) => <button key={r.entidad_id} className="entity-row" onClick={() => selectEntity(r.entidad_id)}>
-            <span className="entity-dot" style={{ background: categoryColor(r.categoria) }}/>
-            <span><strong>{r.nombre}</strong><small>{categoryShort(r.categoria)} · {r.municipio || 'Municipio por identificar'}, {r.estado}</small></span>
-          </button>)}
+  if (error) {
+    return <div className="loading">{error}</div>
+  }
+
+  const entities = [
+    ...new Map(
+      filtered.map((r) => [r.entidad_id, r])
+    ).values(),
+  ]
+
+  const categories = [
+    'Clubes y Equipos',
+    'Escuelas y Academias',
+    'Ligas de Fútbol',
+    'Asociaciones Civiles y Fundaciones',
+  ]
+
+  return (
+    <>
+      <PageHeader
+        eyebrow="Ecosistema nacional"
+        title="Dónde están las oportunidades"
+        description="Explora organizaciones, sedes y fichas del fútbol femenil en México sin confundir volumen con cobertura real."
+      />
+
+      <FiltersBar records={records} />
+
+      <KpiGrid metrics={metrics} />
+
+      {filtered.length ? (
+        <div className="explore-grid">
+          <OpportunityMap records={filtered} />
+
+          <section className="map-context-card">
+            <div className="card-heading">
+              <div>
+                <h3>Categorías</h3>
+                <p>Distribución de las entidades visibles en el mapa</p>
+              </div>
+            </div>
+
+            <div className="map-context-content">
+              <div className="legend-list">
+                {categories.map((categoria) => {
+                  const count = new Set(
+                    filtered
+                      .filter((r) => r.categoria === categoria)
+                      .map((r) => r.entidad_id)
+                  ).size
+
+                  return (
+                    <div className="legend-item" key={categoria}>
+                      <span
+                        className="legend-dot"
+                        style={{
+                          background: categoryColor(categoria),
+                        }}
+                      />
+
+                      <span className="legend-label">
+                        {categoria}
+                      </span>
+
+                      <strong className="legend-count">
+                        {count}
+                      </strong>
+                    </div>
+                  )
+                })}
+              </div>
+
+              <div className="context-summary">
+                <span className="context-summary-label">
+                  Entidades
+                </span>
+
+                <strong>
+                  {entities.length}
+                </strong>
+
+                <small>
+                  bajo los filtros actuales
+                </small>
+              </div>
+            </div>
+          </section>
         </div>
-      </section>
-    </div> : <EmptyState/>}
-    <EntityDrawer records={filtered}/>
-  </>
+      ) : (
+        <EmptyState />
+      )}
+
+      <EntityDrawer records={filtered} />
+    </>
+  )
 }
